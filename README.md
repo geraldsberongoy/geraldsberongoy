@@ -10,11 +10,6 @@ Front‑End Lead Developer at **AWS Cloud Club PUP** • Web Dev Learning Head a
 ## GitHub Overview
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=geraldsberongoy&show_icons=true&hide_title=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldsberongoy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p>
   <img height="165" src="https://streak-stats.demolab.com?user=geraldsberongoy&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
