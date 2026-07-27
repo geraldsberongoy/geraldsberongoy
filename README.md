@@ -13,6 +13,8 @@ Front‑End Lead Developer at **AWS Cloud Club PUP** • Web Dev Learning Head a
   <img height="165" src="https://streak-stats.demolab.com?user=geraldsberongoy&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
+<img src="./metrics.svg" alt="GitHub metrics" />
+
 ---
 
 ## Tech Stack
