@@ -1,4 +1,4 @@
-# Gerald S. Berongoy lopit
+# Gerald S. Berongoy
 **Full‑Stack Developer | Computer Engineering Student**
 
 Taguig City, PH • `geraldberongoy04@gmail.com` • LinkedIn: https://www.linkedin.com/in/geraldberongoy/ • GitHub: `geraldsberongoy`
