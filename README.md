@@ -42,8 +42,6 @@
 - Builds session material and hands-on workshop demos.
 <!-- TODO: add sessions run, topics covered, attendee count -->
 
-<img src="./metrics.svg" alt="GitHub metrics" />
-
 ---
 
 ## Tech Stack
@@ -104,15 +102,19 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=geraldsberongoy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldsberongoy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+<!-- Generated daily by .github/workflows/metrics.yml and committed to this repo, so it never rate-limits. -->
+<img src="./metrics.svg" alt="GitHub metrics: activity, community stats, languages, isometric contribution calendar" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geraldsberongoy&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
 
 <br />
 
 <img height="165" src="https://streak-stats.demolab.com?user=geraldsberongoy&theme=github-dark&hide_border=true" alt="GitHub streak" />
 
+<!-- github-readme-stats cards dropped: metrics.svg already covers commits, PRs, issues, and languages, and the public instance returns intermittent 503. -->
 <!-- github-profile-trophy skipped: public instance returns HTTP 402 (Vercel usage limit), image would render broken. Self-host if wanted. -->
-<!-- Snake contribution graph needs a GitHub Action in this repo to generate the SVG - not set up yet. -->
 
 </div>
 

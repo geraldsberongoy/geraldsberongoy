@@ -25,6 +25,10 @@ jobs:
           plugin_lines: yes
           plugin_languages: yes
           plugin_languages_limit: 8
+          # indepth counts actual bytes per language across cloned repos, not just each repo's primary language.
+          # Costs a few minutes of runner time per run; drop to plain languages if the job gets too slow.
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_achievements: yes
