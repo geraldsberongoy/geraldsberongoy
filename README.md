@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gerald%20S.%20Berongoy&fontSize=42&fontAlignY=32&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineering%20Student&descSize=16&descAlignY=52" alt="header" />
+# Gerald S. Berongoy
+
+**Full-Stack Developer | Computer Engineering Student**
 
 <a href="https://www.linkedin.com/in/geraldberongoy/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3776AB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Computer+Engineering+%40+PUP;Front-End+Lead+%40+AWS+Cloud+Club+PUP;Web+Dev+Learning+Head+%40+GDG+PUP;I+build+things+for+student+communities" alt="typing" />
@@ -119,7 +121,5 @@
 <div align="center">
 
 **Open to collaboration, internships, and interesting problems.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 
 </div>
