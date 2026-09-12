@@ -107,9 +107,7 @@
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=geraldsberongoy&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
-
-<br />
+<!-- github-readme-activity-graph dropped: public instance returns HTTP 402 (Vercel usage limit); metrics.svg full-year isocalendar covers it. -->
 
 <img height="165" src="https://streak-stats.demolab.com?user=geraldsberongoy&theme=github-dark&hide_border=true" alt="GitHub streak" />
 
