@@ -2,10 +2,10 @@
 
 # Gerald S. Berongoy
 
-**Full-Stack Developer | Computer Engineering Student**
+**Software Engineer | Computer Engineering Student**
 
 <a href="https://www.linkedin.com/in/geraldberongoy/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3776AB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Computer+Engineering+%40+PUP;Front-End+Lead+%40+AWS+Cloud+Club+PUP;Web+Dev+Learning+Head+%40+GDG+PUP;I+build+things+for+student+communities" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=3776AB&center=true&vCenter=true&width=560&lines=Software+Engineer;Computer+Engineering+%40+PUP;I+build+things+for+student+communities" alt="typing" />
 </a>
 
 <br />
@@ -21,26 +21,11 @@
 
 ## About
 
-- Full-stack developer and Computer Engineering student based in **Taguig City, PH**.
+- Software engineer and Computer Engineering student based in **Taguig City, PH**.
 - I build web apps end to end: React / Next.js on the front, FastAPI / Node on the back.
 - Currently deep in **TypeScript**, **Next.js**, and **Web3 on Stellar / Soroban**.
 - I like projects that ship to real users, especially tools for student orgs and campus communities.
 - Reach me at **geraldberongoy04@gmail.com** - open to collaboration and internships.
-
----
-
-## Leadership & Community
-
-**Front-End Lead Developer** - AWS Cloud Club PUP
-- Leads front-end development for the club's web projects and org site.
-- Sets component structure, styling conventions, and review standards for the front-end team.
-- Mentors members on React, Tailwind, and Git workflow.
-<!-- TODO: add concrete numbers - team size, projects shipped, event attendance -->
-
-**Web Dev Learning Head** - GDG PUP
-- Plans and runs the web development learning track for members.
-- Builds session material and hands-on workshop demos.
-<!-- TODO: add sessions run, topics covered, attendee count -->
 
 ---
 
