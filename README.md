@@ -34,7 +34,7 @@
 <div align="center">
 
 <!-- Generated daily by .github/workflows/metrics.yml and committed to this repo, so it never rate-limits. -->
-<img src="./metrics.svg" alt="GitHub metrics: activity, community stats, languages, isometric contribution calendar" />
+<img src="./metrics.svg" alt="GitHub activity and isometric contribution calendar" />
 
 <br />
 
